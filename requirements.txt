@@ -1,0 +1,6 @@
+seaborn==0.8.1
+scipy==1.0.0
+numpy==1.14.2
+tqdm==4.11.2
+bottleneck==1.2.1
+pandas==0.21.0
