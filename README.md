@@ -7,6 +7,6 @@ In this notebook, we show a complete self-contained example of training a variat
 The notebook has been updated slightly to work with newest version of Tensorflow and dependencies are better documented. 
 
 ## install dependencies
-- CUDA-9.0 (unfortunately, always hard to do - atleast in this day an age)
+- CUDA-9.0 (unfortunately, always hard to do - at least in this day and age)
 - conda install -c anaconda tensorflow-gpu
 - pip install -r requirements.txt
